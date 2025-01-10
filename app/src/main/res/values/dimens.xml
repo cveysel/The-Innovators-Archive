@@ -1,0 +1,3 @@
+<resources>
+    <dimen name="recycler_view_spacing">16dp</dimen>
+</resources>
